@@ -10,15 +10,57 @@
 
 ---
 
-## What You Get
+## Why Command Playground?
 
-| Feature | Description |
-|---------|-------------|
-| **Interactive Terminal** | Practice CLI commands in a browser-based terminal — no setup needed |
-| **Quiz Mode** | Test your knowledge with timed quizzes and score tracking |
-| **PDF Cheatsheets** | Downloadable A4 cheatsheets for every tool — print and pin them |
-| **Typing Practice** | Improve your CLI typing speed with real commands |
-| **AI Assistant** | Ask natural language questions about any CLI command |
+Learning CLI commands by Googling them one at a time is slow, scattered, and easy to forget. **Command Playground** brings everything together — learn, practice, and master 105+ CLI tools in one place, completely free.
+
+Whether you're a **student** learning the terminal for the first time, a **developer** switching to a new tool like Docker or Kubernetes, or a **DevOps engineer** preparing for interviews — this platform is built for you.
+
+### What Makes It Different
+
+- **Not just a cheatsheet** — it's a complete learning platform with interactive practice, quizzes, typing challenges, and AI assistance
+- **105+ tools in one place** — from beginner tools (Git, Linux, Python) to advanced (Kubernetes, Terraform, Helm, Argo CD)
+- **5,000+ real commands** — every command is pulled from official documentation with accurate syntax
+- **Works in your browser** — no installations, no setup, no sign-ups required
+
+---
+
+## Features
+
+### Interactive CLI Terminal
+Practice commands in a **browser-based terminal** that simulates real CLI environments. Each tool has guided questions that test your knowledge — type the correct command, get instant feedback, and learn by doing. No need to install anything on your machine.
+
+[Start Practicing →](https://technoscripts.com/cli/?utm_source=github&utm_medium=repository&utm_campaign=feature-cli)
+
+### Quiz Mode with Score Tracking
+Each tool comes with **timed CLI quizzes** — answer questions about commands, flags, and options. Track your score, see which commands you missed, and retry until you master them. Great for interview prep and self-assessment.
+
+### PDF Cheatsheets — Print & Pin
+Every tool has a beautifully formatted, **printable A4 PDF cheatsheet** with all commands organized by category. Download them, print them, and pin them next to your monitor for quick reference.
+
+[Browse All Cheatsheets →](https://technoscripts.com/command-playground/cheatsheets/?utm_source=github&utm_medium=repository&utm_campaign=feature-cheatsheet)
+
+### CLI Typing Practice
+Improve your **command-line typing speed** by typing real commands against a timer. Track your WPM (words per minute), accuracy, and longest streak. Earn ranks from Beginner to Legend. Muscle memory means faster daily workflow.
+
+[Start Typing Practice →](https://technoscripts.com/command-playground/typing-practice/?utm_source=github&utm_medium=repository&utm_campaign=feature-typing)
+
+### AI Command Assistant
+Don't know the right command? **Ask in plain English** and get the exact CLI command with a clear explanation. The AI assistant understands context across all 105+ tools — no more digging through man pages or Stack Overflow.
+
+[Try the AI Assistant →](https://technoscripts.com/cli/?utm_source=github&utm_medium=repository&utm_campaign=feature-ai#open-ai)
+
+---
+
+## Who Is This For?
+
+| Audience | How It Helps |
+|----------|-------------|
+| **Students & Beginners** | Learn CLI from scratch with guided practice — start with Git, Linux, or Python and work your way up |
+| **Developers** | Quickly pick up new tools (Docker, Kubernetes, AWS CLI) with hands-on practice instead of reading docs |
+| **DevOps & SRE Engineers** | Master Terraform, Helm, Ansible, and CI/CD tools — practice the commands you use daily |
+| **Interview Candidates** | Prepare for DevOps and backend interviews — many companies test CLI proficiency on the spot |
+| **Teams & Bootcamps** | Use as a training resource for onboarding engineers or running workshops |
 
 ---
 
@@ -236,16 +278,6 @@ Not sure about a command? The built-in **AI Assistant** on Command Playground ca
 
 ---
 
-## Why This Exists
-
-Most developers learn CLI commands by Googling them one at a time. That's slow.
-
-**Command Playground** gives you a structured way to learn and practice CLI commands for any tool — with interactive quizzes, typing challenges, downloadable cheatsheets, and an AI assistant to answer your questions.
-
-Whether you're preparing for a DevOps interview, learning Docker for the first time, or just want to type `kubectl` commands faster — this is for you.
-
----
-
 ## Latest from TechnoScripts
 
 - [Command Playground: AI-Powered Platform to Learn & Practice CLI Tools Online](https://technoscripts.com/command-playground-ai-powered-platform-to-learn-practice-cli-tools-online/?utm_source=github&utm_medium=repository&utm_campaign=blog)
@@ -256,25 +288,19 @@ Whether you're preparing for a DevOps interview, learning Docker for the first t
 
 ---
 
-## How to Use
+## How to Get Started
 
-### 1. Practice Commands Interactively
-Pick any tool from the table above, click **Practice**, and start answering CLI questions in the browser terminal. No installation needed.
-
-### 2. Download Cheatsheets
-Each tool has a printable A4 PDF cheatsheet. Pin it next to your monitor for quick reference.
-
-### 3. Improve Typing Speed
-Use the typing practice mode to type real CLI commands against a timer. Track your WPM and accuracy.
-
-### 4. Ask the AI
-The AI assistant on the site can answer natural language questions about any CLI command.
+1. **Pick a tool** from the table above — click **Practice** to open the interactive terminal, **Cheatsheet** to download the PDF, or **Typing** to start a typing challenge
+2. **Practice in your browser** — answer CLI questions, type commands, and get instant feedback without installing anything
+3. **Download & print** — grab the PDF cheatsheet for any tool and keep it at your desk
+4. **Ask the AI** — stuck on a command? Ask in plain English and get the exact syntax with explanation
+5. **Track your progress** — earn typing ranks, improve quiz scores, and build CLI muscle memory over time
 
 ---
 
 ## Contributing
 
-Found a missing command? Want to add a new tool? See [CONTRIBUTING.md](CONTRIBUTING.md).
+Found a missing command? Want to add a new tool? See [CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
 ---
 
